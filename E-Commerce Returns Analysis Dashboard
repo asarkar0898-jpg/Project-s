@@ -1,0 +1,38 @@
+
+📌 Overview
+
+This project presents an interactive Power BI dashboard designed to analyze e-commerce product returns and uncover key patterns affecting business performance. It helps stakeholders understand return behavior and make data-driven decisions.
+
+🚀 Key Metrics
+Net Sales: 2.33M
+Net Orders: 10K
+Net Returns: 297
+Return Rate: 2.91%
+Net Profit: 292.30K
+📈 Features
+Return Rate Analysis across product categories
+Sales vs Return Insights
+Top Sub-category Returns Identification
+Monthly Return Trends Visualization
+Geographic Analysis (Region & Country)
+Customer Segment Insights
+Shipping Mode Impact on Returns
+🧠 Insights
+Technology and Furniture categories show varying return patterns
+Certain shipping modes contribute more to returns
+Regional trends highlight areas with higher return rates
+Consumer segment drives the majority of returns
+🛠 Tools Used
+Power BI Desktop
+Data Visualization Techniques
+Business Intelligence Analysis
+📂 Project File
+E-Commerce Returns Analysis Dashboard.pbix
+🎯 Purpose
+
+The goal of this dashboard is to help businesses:
+
+Reduce return rates
+Improve logistics efficiency
+Enhance customer satisfaction
+Optimize product quality
